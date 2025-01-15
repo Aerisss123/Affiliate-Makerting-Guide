@@ -1,2 +1,3 @@
-// You can add JavaScript functionality in the future
-console.log("Blog Loaded");
+document.addEventListener("DOMContentLoaded", function() {
+    alert("Welcome to your Affiliate Marketing Guide!");
+});
